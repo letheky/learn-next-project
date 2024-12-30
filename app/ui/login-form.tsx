@@ -1,4 +1,4 @@
-import { lusitana } from '@/app/ui/fonts';
+import { lusitana } from '@/app/ui/fonts'; // Assuming the 'fonts.ts' file is located in the same directory as the current file
 import {
   AtSymbolIcon,
   KeyIcon,
